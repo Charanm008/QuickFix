@@ -1,0 +1,113 @@
+[2026-10-10 14:52:04] [ERROR] [quickfix]: Ollama API request failed: Failed to parse: http://localhost:99999/api/chat
+[2026-10-10 14:52:04] [INFO] [quickfix.config]: Saved configuration to C:\Users\chara\AppData\Local\Temp\pytest-of-chara\pytest-2\test_config_save_and_load0\config.json
+[2026-10-10 14:52:04] [WARNING] [quickfix.sanitize]: Sanitizer rejected: empty or null output from LLM.
+[2026-10-10 14:52:04] [WARNING] [quickfix.sanitize]: Sanitizer rejected: empty or null output from LLM.
+[2026-10-10 14:52:04] [WARNING] [quickfix.sanitize]: Sanitizer rejected: empty or null output from LLM.
+[2026-10-10 14:52:04] [WARNING] [quickfix.sanitize]: Sanitizer rejected runaway output: len=300 > allowed=263
+[2026-10-10 14:52:04] [WARNING] [quickfix.sanitize]: Sanitizer rejected output: original parsed as Python, but output failed (expected an indented block after function definition on line 1 (<unknown>, line 2))
+[2026-10-10 14:52:18] [ERROR] [quickfix]: Ollama API request failed: Failed to parse: http://localhost:99999/api/chat
+[2026-10-10 14:52:18] [INFO] [quickfix.config]: Saved configuration to C:\Users\chara\AppData\Local\Temp\pytest-of-chara\pytest-3\test_config_save_and_load0\config.json
+[2026-10-10 14:52:18] [WARNING] [quickfix.sanitize]: Sanitizer rejected: empty or null output from LLM.
+[2026-10-10 14:52:18] [WARNING] [quickfix.sanitize]: Sanitizer rejected: empty or null output from LLM.
+[2026-10-10 14:52:18] [WARNING] [quickfix.sanitize]: Sanitizer rejected: empty or null output from LLM.
+[2026-10-10 14:52:18] [WARNING] [quickfix.sanitize]: Sanitizer rejected runaway output: len=300 > allowed=263
+[2026-10-10 14:52:18] [WARNING] [quickfix.sanitize]: Sanitizer rejected output: original parsed as Python, but output failed (expected an indented block after function definition on line 1 (<unknown>, line 2))
+[2026-10-10 14:53:33] [ERROR] [quickfix]: Ollama API request failed: Failed to parse: http://localhost:99999/api/chat
+[2026-10-10 14:53:33] [INFO] [quickfix.config]: Saved configuration to C:\Users\chara\AppData\Local\Temp\pytest-of-chara\pytest-4\test_config_save_and_load0\config.json
+[2026-10-10 14:53:33] [WARNING] [quickfix.sanitize]: Sanitizer rejected: empty or null output from LLM.
+[2026-10-10 14:53:33] [WARNING] [quickfix.sanitize]: Sanitizer rejected: empty or null output from LLM.
+[2026-10-10 14:53:33] [WARNING] [quickfix.sanitize]: Sanitizer rejected: empty or null output from LLM.
+[2026-10-10 14:53:33] [WARNING] [quickfix.sanitize]: Sanitizer rejected runaway output: len=300 > allowed=263
+[2026-10-10 14:53:33] [WARNING] [quickfix.sanitize]: Sanitizer rejected output: original parsed as Python, but output failed (expected an indented block after function definition on line 1 (<unknown>, line 2))
+[2026-10-10 14:57:09] [ERROR] [quickfix]: Ollama API request failed: Failed to parse: http://localhost:99999/api/chat
+[2026-10-10 14:57:09] [INFO] [quickfix.config]: Saved configuration to C:\Users\chara\AppData\Local\Temp\pytest-of-chara\pytest-5\test_config_save_and_load0\config.json
+[2026-10-10 14:57:09] [WARNING] [quickfix.sanitize]: Sanitizer rejected: empty or null output from LLM.
+[2026-10-10 14:57:09] [WARNING] [quickfix.sanitize]: Sanitizer rejected: empty or null output from LLM.
+[2026-10-10 14:57:09] [WARNING] [quickfix.sanitize]: Sanitizer rejected: empty or null output from LLM.
+[2026-10-10 14:57:09] [WARNING] [quickfix.sanitize]: Sanitizer rejected runaway output: len=300 > allowed=263
+[2026-10-10 14:57:09] [WARNING] [quickfix.sanitize]: Sanitizer rejected output: original parsed as Python, but output failed (expected an indented block after function definition on line 1 (<unknown>, line 2))
+[2026-10-10 14:58:12] [INFO] [quickfix]: Starting QuickFix desktop service...
+[2026-10-10 14:58:12] [INFO] [quickfix]: Registered primary hotkey: ctrl+alt+w (<ctrl>+<alt>+w)
+[2026-10-10 14:58:12] [INFO] [quickfix]: QuickFix is active in the system tray. Press hotkey to fix selection.
+[2026-10-10 14:58:14] [INFO] [quickfix]: Ollama connection verified and required models are available.
+[2026-10-10 14:58:14] [INFO] [quickfix]: Warming model 'qwen3.5:4b' in background...
+[2026-10-10 14:58:26] [ERROR] [quickfix]: Ollama request timed out after 10.0s. Consider increasing request_timeout_seconds in config.json.
+[2026-10-10 14:58:26] [INFO] [quickfix]: Model 'qwen3.5:4b' is warm and ready.
+[2026-10-10 15:00:13] [INFO] [quickfix]: Target process: 'notepad.exe' | Mode: PROSE | Length: 48
+[2026-10-10 15:00:45] [ERROR] [quickfix]: Ollama request timed out after 30.0s. Consider increasing request_timeout_seconds in config.json.
+[2026-10-10 15:00:45] [ERROR] [quickfix]: LLM generation returned no output. Indicating error state.
+[2026-10-10 15:14:03] [ERROR] [quickfix]: Ollama API request failed: Failed to parse: http://localhost:99999/api/chat
+[2026-10-10 15:14:03] [INFO] [quickfix.config]: Saved configuration to C:\Users\chara\AppData\Local\Temp\pytest-of-chara\pytest-6\test_config_save_and_load0\config.json
+[2026-10-10 15:14:03] [WARNING] [quickfix.sanitize]: Sanitizer rejected: empty or null output from LLM.
+[2026-10-10 15:14:03] [WARNING] [quickfix.sanitize]: Sanitizer rejected: empty or null output from LLM.
+[2026-10-10 15:14:03] [WARNING] [quickfix.sanitize]: Sanitizer rejected: empty or null output from LLM.
+[2026-10-10 15:14:03] [WARNING] [quickfix.sanitize]: Sanitizer rejected runaway output: len=300 > allowed=263
+[2026-10-10 15:14:03] [WARNING] [quickfix.sanitize]: Sanitizer rejected output: original parsed as Python, but output failed (expected an indented block after function definition on line 1 (<unknown>, line 2))
+[2026-10-10 15:15:50] [INFO] [quickfix]: Starting QuickFix desktop service...
+[2026-10-10 15:15:50] [INFO] [quickfix]: Registered primary hotkey: ctrl+alt+w (<ctrl>+<alt>+w)
+[2026-10-10 15:15:50] [INFO] [quickfix]: QuickFix is active in the system tray. Press hotkey to fix selection.
+[2026-10-10 15:15:52] [INFO] [quickfix]: Ollama connection verified and required models are available.
+[2026-10-10 15:15:52] [INFO] [quickfix]: Warming model 'qwen3.5:4b' in background...
+[2026-10-10 15:16:17] [INFO] [quickfix]: Target process: 'notepad.exe' | Mode: PROSE | Length: 48
+[2026-10-10 15:16:29] [INFO] [quickfix]: Model 'qwen3.5:4b' is warm and ready.
+[2026-10-10 15:19:38] [INFO] [quickfix]: Target process: 'notepad.exe' | Mode: CODE | Length: 647
+[2026-10-10 15:25:06] [ERROR] [quickfix]: Ollama API request failed: Failed to parse: http://localhost:99999/api/chat
+[2026-10-10 15:25:06] [INFO] [quickfix.config]: Saved configuration to C:\Users\chara\AppData\Local\Temp\pytest-of-chara\pytest-7\test_config_save_and_load0\config.json
+[2026-10-10 15:25:06] [WARNING] [quickfix.sanitize]: Sanitizer rejected: empty or null output from LLM.
+[2026-10-10 15:25:06] [WARNING] [quickfix.sanitize]: Sanitizer rejected: empty or null output from LLM.
+[2026-10-10 15:25:06] [WARNING] [quickfix.sanitize]: Sanitizer rejected: empty or null output from LLM.
+[2026-10-10 15:25:06] [WARNING] [quickfix.sanitize]: Sanitizer rejected runaway output: len=300 > allowed=263
+[2026-10-10 15:25:06] [WARNING] [quickfix.sanitize]: Sanitizer rejected output: original parsed as Python, but output failed (expected an indented block after function definition on line 1 (<unknown>, line 2))
+[2026-10-10 15:26:38] [INFO] [quickfix]: Target process: 'notepad.exe' | Mode: PROSE | Length: 48
+[2026-10-10 15:28:04] [INFO] [quickfix]: Shutting down QuickFix...
+[2026-10-10 15:28:13] [INFO] [quickfix]: Starting QuickFix desktop service...
+[2026-10-10 15:28:13] [INFO] [quickfix]: Registered primary hotkey: ctrl+alt+w (<ctrl>+<alt>+w)
+[2026-10-10 15:28:13] [INFO] [quickfix]: QuickFix is active in the system tray. Press hotkey to fix selection.
+[2026-10-10 15:28:15] [INFO] [quickfix]: Ollama connection verified and required models are available.
+[2026-10-10 15:28:15] [INFO] [quickfix]: Warming model 'qwen2.5:3b' in background...
+[2026-10-10 15:28:23] [INFO] [quickfix]: Model 'qwen2.5:3b' is warm and ready.
+[2026-10-10 15:28:23] [INFO] [quickfix]: Warming model 'qwen2.5-coder:1.5b' in background...
+[2026-10-10 15:28:27] [INFO] [quickfix]: Target process: 'notepad.exe' | Mode: PROSE | Length: 533
+[2026-10-10 15:28:30] [INFO] [quickfix]: Model 'qwen2.5-coder:1.5b' is warm and ready.
+[2026-10-10 15:35:32] [ERROR] [quickfix]: Ollama API request failed: Failed to parse: http://localhost:99999/api/chat
+[2026-10-10 15:35:32] [INFO] [quickfix.config]: Saved configuration to C:\Users\chara\AppData\Local\Temp\pytest-of-chara\pytest-8\test_config_save_and_load0\config.json
+[2026-10-10 15:35:32] [WARNING] [quickfix.sanitize]: Sanitizer rejected: empty or null output from LLM.
+[2026-10-10 15:35:32] [WARNING] [quickfix.sanitize]: Sanitizer rejected: empty or null output from LLM.
+[2026-10-10 15:35:32] [WARNING] [quickfix.sanitize]: Sanitizer rejected: empty or null output from LLM.
+[2026-10-10 15:35:32] [WARNING] [quickfix.sanitize]: Sanitizer rejected runaway output: len=300 > allowed=263
+[2026-10-10 15:35:32] [WARNING] [quickfix.sanitize]: Sanitizer rejected output: original parsed as Python, but output failed (expected an indented block after function definition on line 1 (<unknown>, line 2))
+[2026-10-10 15:36:53] [INFO] [quickfix]: Starting QuickFix desktop service...
+[2026-10-10 15:36:53] [INFO] [quickfix]: Registered primary hotkey: ctrl+alt+w (<ctrl>+<alt>+w)
+[2026-10-10 15:36:53] [INFO] [quickfix]: QuickFix is active in the system tray. Press hotkey to fix selection.
+[2026-10-10 15:36:55] [INFO] [quickfix]: Ollama connection verified and required models are available.
+[2026-10-10 15:36:55] [INFO] [quickfix]: Warming model 'qwen2.5:3b' in background...
+[2026-10-10 15:36:57] [INFO] [quickfix]: Model 'qwen2.5:3b' is warm and ready.
+[2026-10-10 15:37:24] [INFO] [quickfix]: Target process: 'notepad.exe' | Mode: PROSE | Length: 533
+[2026-10-10 15:37:48] [INFO] [quickfix]: Target process: 'notepad.exe' | Mode: CODE | Length: 649
+[2026-10-10 15:38:58] [INFO] [quickfix]: Target process: 'notepad.exe' | Mode: CODE | Length: 647
+[2026-10-10 15:45:51] [INFO] [quickfix]: Shutting down QuickFix...
+[2026-10-10 15:59:37] [INFO] [quickfix]: Starting QuickFix desktop service...
+[2026-10-10 15:59:37] [INFO] [quickfix]: Registered primary hotkey: ctrl+alt+w (<ctrl>+<alt>+w)
+[2026-10-10 15:59:37] [INFO] [quickfix]: QuickFix is active in the system tray. Press hotkey to fix selection.
+[2026-10-10 15:59:39] [INFO] [quickfix]: Ollama connection verified and required models are available.
+[2026-10-10 15:59:39] [INFO] [quickfix]: Warming model 'qwen2.5:3b' in background...
+[2026-10-10 15:59:42] [INFO] [quickfix]: Model 'qwen2.5:3b' is warm and ready.
+[2026-10-10 15:59:46] [INFO] [quickfix]: Target process: 'notepad.exe' | Mode: PROSE | Length: 535
+[2026-10-10 16:00:00] [INFO] [quickfix]: Target process: 'comet.exe' | Mode: PROSE | Length: 534
+[2026-10-10 16:00:51] [INFO] [quickfix]: Target process: 'notepad.exe' | Mode: PROSE | Length: 535
+[2026-10-10 16:02:34] [ERROR] [quickfix]: Ollama API request failed: Failed to parse: http://localhost:99999/api/chat
+[2026-10-10 16:02:34] [INFO] [quickfix.config]: Saved configuration to C:\Users\chara\AppData\Local\Temp\pytest-of-chara\pytest-9\test_config_save_and_load0\config.json
+[2026-10-10 16:02:34] [WARNING] [quickfix.sanitize]: Sanitizer rejected: empty or null output from LLM.
+[2026-10-10 16:02:34] [WARNING] [quickfix.sanitize]: Sanitizer rejected: empty or null output from LLM.
+[2026-10-10 16:02:34] [WARNING] [quickfix.sanitize]: Sanitizer rejected: empty or null output from LLM.
+[2026-10-10 16:02:34] [WARNING] [quickfix.sanitize]: Sanitizer rejected runaway output: len=300 > allowed=263
+[2026-10-10 16:02:34] [WARNING] [quickfix.sanitize]: Sanitizer rejected output: original parsed as Python, but output failed (expected an indented block after function definition on line 1 (<unknown>, line 2))
+[2026-10-10 16:03:32] [INFO] [quickfix]: Starting QuickFix desktop service...
+[2026-10-10 16:03:32] [INFO] [quickfix]: Registered primary hotkey: ctrl+alt+w (<ctrl>+<alt>+w)
+[2026-10-10 16:03:32] [INFO] [quickfix]: QuickFix is active in the system tray. Press hotkey to fix selection.
+[2026-10-10 16:03:34] [INFO] [quickfix]: Ollama connection verified and required models are available.
+[2026-10-10 16:03:34] [INFO] [quickfix]: Warming model 'qwen2.5:3b' in background...
+[2026-10-10 16:03:36] [INFO] [quickfix]: Model 'qwen2.5:3b' is warm and ready.
+[2026-10-10 16:03:41] [INFO] [quickfix]: Target process: 'notepad.exe' | Mode: CODE | Length: 647
+[2026-10-10 16:04:39] [INFO] [quickfix]: Target process: 'comet.exe' | Mode: PROSE | Length: 534
+[2026-10-10 16:13:36] [INFO] [quickfix]: Shutting down QuickFix...

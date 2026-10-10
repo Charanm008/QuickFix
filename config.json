@@ -1,0 +1,39 @@
+{
+  "hotkey": "ctrl+alt+w",
+  "hotkey_code": "",
+  "hotkey_prose": "",
+  "output_mode": "replace",
+  "ollama_url": "http://localhost:11434",
+  "model_prose": "qwen2.5:3b",
+  "model_code": "qwen2.5:3b",
+  "request_timeout_seconds": 60.0,
+  "keep_alive": "60m",
+  "temperature": 0.2,
+  "code_apps": [
+    "code.exe",
+    "pycharm64.exe",
+    "devenv.exe",
+    "sublime_text.exe",
+    "idea64.exe",
+    "notepad++.exe",
+    "clion64.exe",
+    "webstorm64.exe",
+    "cursor.exe",
+    "windsurf.exe"
+  ],
+  "terminal_apps": [
+    "windowsterminal.exe",
+    "cmd.exe",
+    "powershell.exe",
+    "pwsh.exe",
+    "conhost.exe",
+    "mintty.exe",
+    "alacritty.exe",
+    "wezterm-gui.exe"
+  ],
+  "restore_clipboard": true,
+  "max_input_chars": 8000,
+  "enabled": true,
+  "show_indicator": true,
+  "show_popup": true
+}
